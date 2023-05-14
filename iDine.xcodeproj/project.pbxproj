@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08B26A942A117A0C00B3EB98 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B26A932A117A0C00B3EB98 /* ItemDetail.swift */; };
+		08B26A962A117F4C00B3EB98 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B26A952A117F4C00B3EB98 /* OrderView.swift */; };
+		08B26A982A1180C500B3EB98 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B26A972A1180C500B3EB98 /* MainView.swift */; };
 		08BDB09D2A1021DF00277542 /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BDB09C2A1021DF00277542 /* iDineApp.swift */; };
 		08BDB09F2A1021DF00277542 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BDB09E2A1021DF00277542 /* ContentView.swift */; };
 		08BDB0A12A1021E100277542 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08BDB0A02A1021E100277542 /* Assets.xcassets */; };
@@ -19,6 +22,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08B26A932A117A0C00B3EB98 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		08B26A952A117F4C00B3EB98 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		08B26A972A1180C500B3EB98 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		08BDB0992A1021DF00277542 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08BDB09C2A1021DF00277542 /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		08BDB09E2A1021DF00277542 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 			children = (
 				08BDB09C2A1021DF00277542 /* iDineApp.swift */,
 				08BDB09E2A1021DF00277542 /* ContentView.swift */,
+				08B26A932A117A0C00B3EB98 /* ItemDetail.swift */,
+				08B26A952A117F4C00B3EB98 /* OrderView.swift */,
+				08B26A972A1180C500B3EB98 /* MainView.swift */,
 				08BDB0B22A10273C00277542 /* ItemRow.swift */,
 				08BDB0AA2A10222B00277542 /* Helper.swift */,
 				08BDB0AD2A10223E00277542 /* Menu.swift */,
@@ -154,7 +163,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				08BDB09F2A1021DF00277542 /* ContentView.swift in Sources */,
+				08B26A982A1180C500B3EB98 /* MainView.swift in Sources */,
+				08B26A962A117F4C00B3EB98 /* OrderView.swift in Sources */,
 				08BDB09D2A1021DF00277542 /* iDineApp.swift in Sources */,
+				08B26A942A117A0C00B3EB98 /* ItemDetail.swift in Sources */,
 				08BDB0B12A10223E00277542 /* Order.swift in Sources */,
 				08BDB0B32A10273C00277542 /* ItemRow.swift in Sources */,
 				08BDB0B02A10223E00277542 /* Menu.swift in Sources */,
