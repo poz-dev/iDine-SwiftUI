@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0814D9F82A12A36B002227DE /* ChekoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0814D9F72A12A36B002227DE /* ChekoutView.swift */; };
 		08B26A942A117A0C00B3EB98 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B26A932A117A0C00B3EB98 /* ItemDetail.swift */; };
 		08B26A962A117F4C00B3EB98 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B26A952A117F4C00B3EB98 /* OrderView.swift */; };
 		08B26A982A1180C500B3EB98 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B26A972A1180C500B3EB98 /* MainView.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0814D9F72A12A36B002227DE /* ChekoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChekoutView.swift; sourceTree = "<group>"; };
 		08B26A932A117A0C00B3EB98 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		08B26A952A117F4C00B3EB98 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		08B26A972A1180C500B3EB98 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				08BDB09C2A1021DF00277542 /* iDineApp.swift */,
+				0814D9F72A12A36B002227DE /* ChekoutView.swift */,
 				08BDB09E2A1021DF00277542 /* ContentView.swift */,
 				08B26A932A117A0C00B3EB98 /* ItemDetail.swift */,
 				08B26A952A117F4C00B3EB98 /* OrderView.swift */,
@@ -164,6 +167,7 @@
 			files = (
 				08BDB09F2A1021DF00277542 /* ContentView.swift in Sources */,
 				08B26A982A1180C500B3EB98 /* MainView.swift in Sources */,
+				0814D9F82A12A36B002227DE /* ChekoutView.swift in Sources */,
 				08B26A962A117F4C00B3EB98 /* OrderView.swift in Sources */,
 				08BDB09D2A1021DF00277542 /* iDineApp.swift in Sources */,
 				08B26A942A117A0C00B3EB98 /* ItemDetail.swift in Sources */,
